@@ -48,5 +48,5 @@ Além disso, utilizei as ferramentas [Trello](https://trello.com/b/EmUFmjCv/deco
 
 Obrigado    <img width="180px" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-alura.png">
 
-https://github.com/dnl-daniel/Decodificador.git
+https://github.com/dnl-daniel/Decodificador.git <br/>
 git@github.com:dnl-daniel/Decodificador.git
